@@ -6,7 +6,7 @@ A real-time object detection system optimized for CCTV footage analysis. This pr
 
 | **Original CCTV Footage** | **YOLOv8 Detection Result** |
 |:---:|:---:|
-| ![Original](data/image.png) | ![Detected](runs/detect/results/detection_run/image.jpg) |
+| ![Original](data/image.png) | ![Detected](data/image.jpg) |
 
 
 ## Key Features
