@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+.env
+
+# YOLOv8 Weights
+*.pt
+
+# Detection Runs
+runs/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+INTERVIEW_QA.md
