@@ -6,16 +6,16 @@ A real-time object detection system optimized for CCTV footage analysis. This pr
 
 | **Original CCTV Footage** | **YOLOv8 Detection Result** |
 |:---:|:---:|
-| ![Original](assets/original_footage.jpg) | ![Detected](assets/detection_result.jpg) |
+| ![Original](data/image.png) | ![Detected](runs/detect/results/detection_run/image.jpg) |
 
 
 ## Key Features
 
-- * Real-time Performance:** Optimized for fast inference on both CPU and GPU.
-- ** High Accuracy:** Uses state-of-the-art YOLOv8 models for superior detection rates.
-- ** Multi-source Support:** Works with static images, video files, and live RTSP/CCTV streams.
-- ** Easy Integration:** Clean and modular Python implementation.
-- ** Detailed Logging:** Automatic saving of detection results and statistics.
+- Real-time Performance:** Optimized for fast inference on both CPU and GPU.
+- High Accuracy:** Uses state-of-the-art YOLOv8 models for superior detection rates.
+- Multi-source Support:** Works with static images, video files, and live RTSP/CCTV streams.
+- Easy Integration:** Clean and modular Python implementation.
+- Detailed Logging:** Automatic saving of detection results and statistics.
 
 
 ## Getting Started
